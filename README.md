@@ -10,6 +10,9 @@ Primary notebook (public):
 
 - https://www.kaggle.com/code/mwauandrew/japan-kenya-car-import-advisory
 
+- <img width="1335" height="793" alt="image" src="https://github.com/user-attachments/assets/f9ccf097-9b50-4bbc-87e6-a4ed5d708031" />
+
+
 ## What this notebook project does
 
 - Scrapes and structures Japan car listing data.
